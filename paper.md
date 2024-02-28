@@ -2,7 +2,8 @@
 Aircraft measurements and simulations of biomass burning aerosols over West Africa
 
 # Author
-Jack McGhee, John Smith
+Jack McGhee, Royce Institute
+John Smith, University of Manchester
 
 # Introduction
 We present aircraft measurements of BBOA over West Africa.
