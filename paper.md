@@ -2,7 +2,7 @@
 Aging of biomass burning aerosols over West Africa
 
 # Author
-Jack McGhee
+Jack Robert McGhee
 
 # Introduction
 We present aircraft measurements of BBOA over West Africa.
